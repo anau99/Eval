@@ -1,0 +1,7 @@
+ID,IconClass,Icon,Title,Description,Date
+1,bg-success,fa-bell,"$2400, Design changes",Design changes request,22 DEC 7:20 PM
+2,bg-danger,fa-code,New order #1832412,New order received,21 DEC 11 PM
+3,bg-info,fa-shopping-cart,Server payments for April,Monthly server payment,21 DEC 9:34 PM
+4,bg-warning,fa-credit-card,New card added for order #4395133,Payment method updated,20 DEC 2:20 AM
+5,bg-primary,fa-unlock,Unlock packages for development,Development access granted,18 DEC 4:54 AM
+6,bg-success,fa-shopping-bag,New order #8583120,New customer order,17 DEC
